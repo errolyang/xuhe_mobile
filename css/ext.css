@@ -1,0 +1,147 @@
+.item_order div.item_xuan a.xieyi{ 
+background: url("../img/xuan2.png") no-repeat center;}
+.item_detail1 a { background:#F7F7F7;
+    color: #333;
+    float: left;
+    font-size: 1.0625em;
+    height: 3.52em;
+    line-height: 3.52em;
+    text-align: center;
+    width: 100%;
+}
+.item_detail2 a {
+    background:#F7F7F7;
+    color: #333;
+    float: left;
+    font-size: 1.0625em;
+    height: 3.52em;
+    line-height: 3.52em;
+    text-align: center;
+    width: 50%;
+}
+ 
+ .item_detail3 a {
+    background:#F7F7F7;
+    color: #333;
+    float: left;
+    font-size: 1.0625em;
+    height: 3.52em;
+    line-height: 3.52em;
+    text-align: center;
+    width: 33.33%;
+}
+.item_detail4 a {
+    background:#F7F7F7;
+    color: #333;
+    float: left;
+    font-size: 1.0625em;
+    height: 3.52em;
+    line-height: 3.52em;
+    text-align: center;
+    width:25%;
+}
+.item_detail5 a {
+    background:#F7F7F7;
+    color: #333;
+    float: left;
+    font-size: 1.0625em;
+    height: 3.52em;
+    line-height: 3.52em;
+    text-align: center;
+    width: 20%;
+}
+.item_detail6 a {
+    background:#F7F7F7;
+    color: #333;
+    float: left;
+    font-size: 1.0625em;
+    height: 3.52em;
+    line-height: 3.52em;
+    text-align: center;
+    width: 20%;
+}
+.land_form form p.code_p label img,.recomment_pic img {
+	width: 100%;
+	height: 100%;
+}
+.le_Y label img{width:100%; height:100%;}
+
+#province_id{
+	color: #888;
+	float: left;
+	width: 48%;
+	height: 2.3125em;
+	 padding: 0.4em;
+}
+#city_id{
+	color: #888;
+	float: right;
+	width: 48%;
+	height: 2.3125em;
+	 padding: 0.4em;
+}
+#district_id{
+	color: #888;
+	float: left;
+	width: 100%;
+	height: 2.3125em;
+	 padding: 0.4em;
+ 
+}
+.relevance{
+	float: right;
+	width: 6.3em;
+	padding:0 0.4em;
+	margin-top:1.1em; 
+}
+
+/* Demo Syles 杞崲鍥� */
+
+/*.swiper-container {
+  
+  height:100%;
+}
+.content-slide {
+  padding: 20px;
+  color: #fff;
+}
+
+.pagination {
+	position:relative;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  
+}
+.swiper-pagination-switch {
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius:50%;
+  background:url(../images/off.jpg) no-repeat;
+  -webkit-background-size:.5rem auto;
+  background-size:.5rem auto;
+  margin: 0 6px;
+  cursor: pointer;
+}
+.swiper-active-switch {
+  background:url(../images/on.jpg) no-repeat;
+  -webkit-background-size:.5rem auto;
+  background-size:.5rem auto;
+}
+
+.part_banner{  padding: 0.625em 0.5em 0.75em;}
+.swiper-container .swipe-wrap .swiper-slide img{/*height:20am*/}
+
+
+#titles{
+	width: 19em;
+	overflow: hidden;	
+}
+.le_orderOneNew a .btn_deleate {
+	width: 1.3em;
+	height: 1.5em;
+}
+.product_tab { width:100%;border-collapse:collapse;}
+.product_tab th{padding:0.2em;border:1px soild #666;}
+.product_tab td{padding:0.2em;border:1px solid #666;}
